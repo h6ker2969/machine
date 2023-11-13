@@ -9,7 +9,7 @@ def screen_creater():
 
     # Set up the screen
     screen = pygame.display.set_mode((800, 600))
-    screen.fill(colors.RED)
+    screen.fill(colors.BLACK)
 
     running = True
     while running:
